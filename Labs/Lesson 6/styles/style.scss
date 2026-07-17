@@ -1,0 +1,44 @@
+variables {
+  $primary-color: blue;
+  $secondary-color: white;
+  $padding: 1rem;
+}
+
+
+header {
+  background-color: $primary-color;
+  color: $secondary-color;
+  padding: 1rem;
+}
+
+header button {
+  background-color: white;
+  color: blue;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.contact button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@use './header' ;

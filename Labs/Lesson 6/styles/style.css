@@ -1,0 +1,21 @@
+header {
+  background-color: blue;
+  color: white;
+  padding: 1rem;
+}
+
+header button {
+  background-color: white;
+  color: blue;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.contact button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
